@@ -1,0 +1,9 @@
+# Inventor backups / temp
+OldVersions/
+*.lck
+*.ipj.old
+*.bak
+~$*
+packngo.log
+# local only, never pushed
+_local/
